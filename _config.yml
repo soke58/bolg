@@ -30,7 +30,7 @@ contact_url: ""
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: "abc0123456789"
-
+excerpt_separator:  '<!-- more -->'
 # Build settings
 markdown: kramdown
 gems:
