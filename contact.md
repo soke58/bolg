@@ -11,7 +11,7 @@ css: ["contact.css"]
             <section class="item card-box" id="row-1">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="item-tit">
+                    <div class="item-tit" style="color:#F00">
                         <strong>【资源.教程】</strong>
                     </div>
                     <!--获取内容列表-->
@@ -168,7 +168,7 @@ css: ["contact.css"]
             <section class="item card-box" id="row-2">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="item-tit">
+                    <div class="item-tit" style="color:#F00">
                         <strong>【供求.资讯】</strong>
                     </div>
                     <!--获取内容列表-->
