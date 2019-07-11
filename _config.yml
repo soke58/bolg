@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 树生[Soke]
+title: 树生
 description: > # this means to ignore newlines until "baseurl:"
   问世间钱为何物，直教人前仆后继
 baseurl: "/"
@@ -26,7 +26,7 @@ paginate: 5
 github_profile: "https://github.com/soke58"
 user: "树生"
 user_email: "soker58@126.com"
-contact_url: "goodweb.html"
+contact_url: ""
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: "abc0123456789"
