@@ -12,7 +12,7 @@ css: ["contact.css"]
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
-                        <strong>资源.教程</strong>
+                        <strong>【资源.教程】</strong>
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix two-list-box">
@@ -169,7 +169,7 @@ css: ["contact.css"]
             <div class="container-fluid">
                 <div class="row">
                     <div class="item-tit">
-                        <strong>供求.资讯</strong>
+                        <strong>【供求.资讯】</strong>
                     </div>
                     <!--获取内容列表-->
                     <div class="clearfix ">
