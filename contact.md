@@ -18,15 +18,15 @@ css: ["contact.css"]
                     <div class="clearfix two-list-box">
                         <div class="col-md-3 col-sm-4 col-xs-6">
                             <a href="https://www.imooc.com/" class="card-link" target="_blank">
-                            <div class="card-tit">慕课网</div>
+                            <div class="card-tit">慕课网</div></a>
                             <div class="card-desc">程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站</div>
-                            </a>
+                            
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
                             <a href="http://www.jikexueyuan.com/" class="card-link" target="_blank">
-                            <div class="card-tit">极客学院</div>
+                            <div class="card-tit">极客学院</div></a>
                             <div class="card-desc">一家很不错的IT职业在线教育平台，入门教程视频通俗易懂，很适合新手学习</div>
-                            </a>
+                            
                         </div>
                         <div class="col-md-3 col-sm-4 col-xs-6">
                             <a href="http://www.zhaikexueyuan.com/" class="card-link" target="_blank">
