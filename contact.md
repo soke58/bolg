@@ -231,22 +231,7 @@ css: ["contact.css"]
             </div>
             </section>
             <!--页脚-->
-            <footer class="footer">
-            <div class="container">
-                <div class="rwo">
-                    <div class="col-md-12">
-                        <p>
-                            本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：xxx
-                        </p>
-                        <!--代码源自小呆导航的开源代码，遵循MIT协议，此处保留源代码的声明-->
-                        <!--<p>
-                            Copyright © 2017-2018 小呆导航（webjike.com）All Rights Reserved
-                        </p>
-						-->
-                    </div>
-                </div>
-            </div>
-            </footer>
+    
         </div>
         <!--内容区域-->
     </div>
