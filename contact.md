@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Contact"
+title: "塞个十年不开腔的微博凑数吧"
 css: ["contact.css"]
 ---
 <div class="col s12">
