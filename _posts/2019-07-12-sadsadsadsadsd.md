@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "²âÊÔÈöµ©"
-date:   2019-07-12 10:40:11 ÐÇÆÚÎå
+title:  "æµ‹è¯•æ’’æ—¦"
+date:   2019-07-12 10:40:11 æ˜ŸæœŸäº”
 categories: default
 tags: test
 
 ------------
 [========]
             
-### ¿ÆÑ§¹«Ê½ TeX(KaTeX)
+### ç§‘å­¦å…¬å¼ TeX(KaTeX)
 
 $$E=mc^2$$
 
-ÐÐÄÚµÄ¹«Ê½$$E=mc^2$$ÐÐÄÚµÄ¹«Ê½£¬ÐÐÄÚµÄ$$E=mc^2$$¹«Ê½¡£
+è¡Œå†…çš„å…¬å¼$$E=mc^2$$è¡Œå†…çš„å…¬å¼ï¼Œè¡Œå†…çš„$$E=mc^2$$å…¬å¼ã€‚
 
 $$x > y$$
 
@@ -20,7 +20,7 @@ $$\(\sqrt{3x-1}+(1+x)^2\)$$
                     
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
-¶àÐÐ¹«Ê½£º
+å¤šè¡Œå…¬å¼ï¼š
 
 ```math
 \displaystyle
@@ -48,19 +48,19 @@ f(x) = \int_{-\infty}^\infty
     \,d\xi
 ```
 
-### ·ÖÒ³·û Page break
+### åˆ†é¡µç¬¦ Page break
 
 > Print Test: Ctrl + P
 
 [========]
 
-### »æÖÆÁ÷³ÌÍ¼ Flowchart
+### ç»˜åˆ¶æµç¨‹å›¾ Flowchart
 
 ```flow
-st=>start: ÓÃ»§µÇÂ½
-op=>operation: µÇÂ½²Ù×÷
-cond=>condition: µÇÂ½³É¹¦ Yes or No?
-e=>end: ½øÈëºóÌ¨
+st=>start: ç”¨æˆ·ç™»é™†
+op=>operation: ç™»é™†æ“ä½œ
+cond=>condition: ç™»é™†æˆåŠŸ Yes or No?
+e=>end: è¿›å…¥åŽå°
 
 st->op->cond
 cond(yes)->e
@@ -69,7 +69,7 @@ cond(no)->op
 
 [========]
                     
-### »æÖÆÐòÁÐÍ¼ Sequence Diagram
+### ç»˜åˆ¶åºåˆ—å›¾ Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
