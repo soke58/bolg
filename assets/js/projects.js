@@ -5,7 +5,7 @@ var DEMO = (function(win,$){
 			'name' : 'XPS 13 触控超极本',
 			'stock_num' : 5000,
 			'price' : 8000,
-			'channel' : '太平洋大厦',
+			'channel' : '太平洋大厦<a href="http://www.baidu.com" title = "点击进入百度">百度</a>',
 			'detail' : {
 				'name' : '睿智公司',
 				'address' : '5-08号'
