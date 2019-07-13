@@ -4,7 +4,7 @@ var JSON =[
 		'name' : '慕课网',
 		'site' : {
 			'dec' : '程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.imooc.com/',
 			'detail' : {
 				'name' : '',
@@ -17,7 +17,7 @@ var JSON =[
 		'name' : '鸠摩搜索',
 		'site' : {
 			'dec' : '电子书,pdf文档等搜索引擎免费下载。',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.jiumodiary.com/',
 			'detail' : {
 				'name' : '',
@@ -30,7 +30,7 @@ var JSON =[
 		'name' : '音乐搜索',
 		'site' : {
 			'dec' : '各大音乐在线搜索直播。',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://music.mli.im/music.web?action=Search',
 			'detail' : {
 				'name' : '',
@@ -43,7 +43,7 @@ var JSON =[
 		'name' : '爱恋动漫BT下载',
 		'site' : {
 			'dec' : '爱恋BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）～各类ACG资源聚集地。',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.kisssub.org/',
 			'detail' : {
 				'name' : '',
@@ -56,7 +56,7 @@ var JSON =[
 		'name' : '唯电影',
 		'site' : {
 			'dec' : '唯电影,纪录片大全、热门视频、正能量及素材分享与下载。',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://vdianying.cc/',
 			'detail' : {
 				'name' : '',
@@ -69,7 +69,7 @@ var JSON =[
 		'name' : '高清MP4吧',
 		'site' : {
 			'dec' : '高清MP4吧-每天搜集最新的电影，高清电影，720p高清电影，1080p高清电影供网友免费下载',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.mp4ba.com/',
 			'detail' : {
 				'name' : '',
@@ -82,7 +82,7 @@ var JSON =[
 		'name' : 'Wallpapers',
 		'site' : {
 			'dec' : '外国的桌面背景图免费下载,没有乱七八糟的广告',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://wallhaven.cc',
 			'detail' : {
 				'name' : '',
@@ -95,7 +95,7 @@ var JSON =[
 		'name' : '美图集',
 		'site' : {
 			'dec' : '高清图片,唯美图片,图片素材,桌面壁纸,手机壁纸,图片大全,风景壁纸,朋友圈配图,微博配图免费下载',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://photo.ihansen.org/#/today',
 			'detail' : {
 				'name' : '',
@@ -108,7 +108,7 @@ var JSON =[
 		'name' : '泼辣有图',
 		'site' : {
 			'dec' : '开源摄影，为世界提供免费美丽图像',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.polayoutu.com/collections',
 			'detail' : {
 				'name' : '',
@@ -121,7 +121,7 @@ var JSON =[
 		'name' : '奶牛快传',
 		'site' : {
 			'dec' : '文件传输,简单高效,免费，传送临时文件好地方，文件快递中的“蜂巢”',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://cowtransfer.com/',
 			'detail' : {
 				'name' : '',
@@ -134,7 +134,7 @@ var JSON =[
 		'name' : '10分钟邮箱',
 		'site' : {
 			'dec' : '临时邮箱、10分钟邮箱、十分钟邮箱、临时邮、临时Email、快速注册Email、自动刷新接收',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://bccto.me/',
 			'detail' : {
 				'name' : '',
@@ -147,7 +147,7 @@ var JSON =[
 		'name' : '在线短信接收',
 		'site' : {
 			'dec' : '可以在线接收短信，接收短信验证码，显示迅速，与国外类似短信验证码接收更快捷。注册网站,app，游戏,防骚扰用',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.pdflibr.com/',
 			'detail' : {
 				'name' : '',
@@ -160,7 +160,7 @@ var JSON =[
 		'name' : '免费在线文字识别',
 		'site' : {
 			'dec' : '通过使用光学字符识别（OCR）技术将文本文档的扫描或（智能手机）图像转换为可编辑文件',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.ocrmaker.com/',
 			'detail' : {
 				'name' : '',
@@ -173,7 +173,7 @@ var JSON =[
 		'name' : '在线文本差异对比',
 		'site' : {
 			'dec' : '在线文本差异对比,文本对比,文本比较,文本比较工具,代码差异对比,内容差异对比',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.jq22.com/textDifference',
 			'detail' : {
 				'name' : '',
@@ -186,7 +186,7 @@ var JSON =[
 		'name' : '精品绿色便携软件',
 		'site' : {
 			'dec' : '追求绿色便携理念，打造清爽干净系统',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.portablesoft.org',
 			'detail' : {
 				'name' : '',
@@ -199,7 +199,7 @@ var JSON =[
 		'name' : '小程序商店',
 		'site' : {
 			'dec' : '提供微信小程序开发资讯，解读微信小程序开发文档，制作微信小程序开发教程',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://minapp.com/miniapp/',
 			'detail' : {
 				'name' : '',
@@ -212,7 +212,7 @@ var JSON =[
 		'name' : '实验楼课程',
 		'site' : {
 			'dec' : '提供编程、运维、测试、云计算、大数据、数据库等全面的IT技术动手实践环境',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.shiyanlou.com/courses/?fee=free',
 			'detail' : {
 				'name' : '',
@@ -225,7 +225,7 @@ var JSON =[
 		'name' : 'A+医学百科',
 		'site' : {
 			'dec' : '一个开放的在线医学百科全书网站，涵盖疾病百科、症状百科、药品百科、急救百科等医学保健知识',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.a-hospital.com/',
 			'detail' : {
 				'name' : '',
@@ -238,7 +238,7 @@ var JSON =[
 		'name' : '爱上分享',
 		'site' : {
 			'dec' : '分享网络上优秀的免费资源，介绍实用、绿色、新奇软件的下载和使用',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.isharebest.com/',
 			'detail' : {
 				'name' : '',
@@ -251,7 +251,7 @@ var JSON =[
 		'name' : '10000toptv全球电视直播',
 		'site' : {
 			'dec' : '青娱乐 电影天堂 伦理电影 cctv1 cctv5 浙江卫视 湖南卫视 东方卫视直播 bbc cnn 凤凰卫视资讯台直播',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://10000top.com/',
 			'detail' : {
 				'name' : '',
@@ -264,7 +264,7 @@ var JSON =[
 		'name' : '乐视直播网',
 		'site' : {
 			'dec' : '网络电视直播_卫星电视直播在线观看',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.leshi123.com/',
 			'detail' : {
 				'name' : '',
@@ -277,7 +277,7 @@ var JSON =[
 		'name' : '韩剧网',
 		'site' : {
 			'dec' : '最新韩剧-懂韩语就去看吧，中文字幕',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://kan-tv.com/',
 			'detail' : {
 				'name' : '',
@@ -290,7 +290,7 @@ var JSON =[
 		'name' : '会商宝',
 		'site' : {
 			'dec' : '中国领先的一站式B2B电子商务平台,电子商务网站,百大商圈',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.huishangbao.com',
 			'detail' : {
 				'name' : '',
@@ -303,7 +303,7 @@ var JSON =[
 		'name' : '中国网库',
 		'site' : {
 			'dec' : '汇集海量供求信息，是中国各类企业销售产品、采购批发及网络推广的首选电子商务平台',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.99114.com/',
 			'detail' : {
 				'name' : '',
@@ -316,7 +316,7 @@ var JSON =[
 		'name' : '旋风视频',
 		'site' : {
 			'dec' : '免费无广告的m3u8链接直播电影电视剧',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.miao101.com/',
 			'detail' : {
 				'name' : '',
@@ -329,7 +329,7 @@ var JSON =[
 		'name' : '中国供应商',
 		'site' : {
 			'dec' : '免费B2B信息发布网站，专注中小企业互联网推广',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://cn.china.cn/',
 			'detail' : {
 				'name' : '',
@@ -342,7 +342,7 @@ var JSON =[
 		'name' : '西北苗木网',
 		'site' : {
 			'dec' : '提供最新苗木求购信息、绿化苗木价格查询、苗木供应信息、苗木栽培养护技术等方面的免费服务信息',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.xbmiaomu.com/',
 			'detail' : {
 				'name' : '',
@@ -355,7 +355,7 @@ var JSON =[
 		'name' : '商渠网',
 		'site' : {
 			'dec' : '免费发布求购信息,中国最全的求购.采购.批发网',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.salqu.com/',
 			'detail' : {
 				'name' : '',
@@ -368,7 +368,7 @@ var JSON =[
 		'name' : '八方资源网',
 		'site' : {
 			'dec' : '为全球220个国家和地区的商人提供在线贸易服务。融供应商机、求购信息、企业目录于一体',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.b2b168.com/',
 			'detail' : {
 				'name' : '',
@@ -381,7 +381,7 @@ var JSON =[
 		'name' : '慕课网',
 		'site' : {
 			'dec' : '程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://www.imooc.com/',
 			'detail' : {
 				'name' : '',
@@ -394,7 +394,7 @@ var JSON =[
 		'name' : '企汇网',
 		'site' : {
 			'dec' : '电子商务平台,求购信息,产品大全,企业大全,产品发布,产品供应信息,行业资讯',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.qihuiwang.com/',
 			'detail' : {
 				'name' : '',
@@ -407,7 +407,7 @@ var JSON =[
 		'name' : '365园林网',
 		'site' : {
 			'dec' : '提供苗木价格,求购苗木,苗木报价,苗木求购信息,园林论文,园林信息化,苗木,园林论文,苗木求购信息',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.yuanlin365.com/',
 			'detail' : {
 				'name' : '',
@@ -420,7 +420,7 @@ var JSON =[
 		'name' : '中国畜牧网',
 		'site' : {
 			'dec' : '养猪，价格，饲料供应商,产品发布,产品供应信息,行业资讯',
-			'time' : 20190712,
+			'time' : '2019/07/12',
 			'urladdress' : 'http://www.chinafarming.com/',
 			'detail' : {
 				'name' : '',
@@ -433,7 +433,7 @@ var JSON =[
 		'name' : 'Encycolorpedia',
 		'site' : {
 			'dec' : '十六进制颜色代码表，图表及调色板，很好用的颜色取色网站 ',
-			'time' : 2019/07/12,
+			'time' : '2019/07/12',
 			'urladdress' : 'https://encycolorpedia.cn/',
 			'detail' : {
 				'name' : '',
