@@ -430,11 +430,11 @@ var JSON =[
 	},
 //---------------------------------------------------
    {
-		'name' : '慕课网',
+		'name' : 'Encycolorpedia',
 		'site' : {
-			'dec' : '程序员的梦工厂，慕课网是垂直的互联网IT技能免费学习网站',
-			'time' : 20190712,
-			'urladdress' : 'https://www.imooc.com/',
+			'dec' : '十六进制颜色代码表，图表及调色板，很好用的颜色取色网站 ',
+			'time' : 2019/07/12,
+			'urladdress' : 'https://encycolorpedia.cn/',
 			'detail' : {
 				'name' : '',
 				'address' : ''
