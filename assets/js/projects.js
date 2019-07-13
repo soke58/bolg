@@ -1,5 +1,4 @@
 var DEMO = (function(win,$){
-	
 	itemReg = /\$\w+[.]?\w+\$/gi,
 	detailReg = /\$\w+[.]?\w+[.]?\w+\$/gi;
 	String.prototype.temp = function(reg, obj) {
