@@ -27,7 +27,7 @@
 <div id="shopitem">
 	<table class="Mtable">
 		<thead>
-			<tr>
+			<tr style="text-align: center;">
 				<th>网址名称</th>
 				<th>网站简介</th>
 				<th>收录时间</th>
@@ -39,10 +39,10 @@
 </div>
 
 <script type="text/template" id="shoptpl">
-			<a href="$site.urladdress$" target="view_window"><tr><div class="card-desc">
-				<td>$name$</td>
+			<tr>
+				<td><a href="$site.urladdress$" target="view_window">$name$</a></td>
 				<td>$site.dec$</td>
 				<td>$site.time$</td>
-			</div></a></tr>
+			</tr>
 </script>
 
