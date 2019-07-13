@@ -30,7 +30,7 @@ var DEMO = (function(win,$){
 	return {
 		init : function(){
 			domRander($('#shoptpl'), $('#shopitem'), itemReg);
-			domRander($('#detailtpl'), $('#detailitem'), detailReg);
+			//domRander($('#detailtpl'), $('#detailitem'), detailReg);
 		}
 	}
 })(window, jQuery);
