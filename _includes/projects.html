@@ -6,10 +6,12 @@
 	<style type="text/css">
 	body{font-size: 12px;}
 	.Mtable{
-		width: 100%;
+		width: 90%;
 		border-collapse: collapse;
 		border:1px solid #dd9;
 		margin-bottom: 20px;
+		text-align: center;
+		margin: auto;
 	}
 
 	.Mtable th, .Mtable td{
@@ -25,54 +27,28 @@
 	<table class="Mtable">
 		<thead>
 			<tr>
-				<th>商家</th>
-				<th>商品名称</th>
-				<th>库存</th>
-				<th>进价</th>
-				<th>销售渠道</th>
+				<th>网址名称</th>
+				<th>网站简介</th>
+				<th>收录时间</th>
+				<th>网站地址</th>
 			</tr>
 		</thead>
 		<tbody>
 		</tbody>
 	</table>
 </div>
-<div id="detailitem">
-	<table class="Mtable">
-		<thead>
-			<tr>
-				<th>商家</th>
-				<th>商品名称</th>
-				<th>库存</th>
-				<th>进价</th>
-				<th>销售渠道</th>
-				<th>店铺名称</th>
-				<th>店铺地址</th>
-			</tr>
-		</thead>
-		<tbody>
-		</tbody>
-	</table>
-</div>
+
 <script type="text/template" id="shoptpl">
 			<tr>
 				<td>$name$</td>
-				<td>$computer.name$</td>
-				<td>$computer.stock_num$</td>
-				<td>$computer.price$</td>
-				<td>$computer.channel$<a href="http://www.baidu.com" title = "点击进入百度">百度</a></td>
-			</tr>
-</script>
-<script type="text/template" id="detailtpl">
-			<tr>
-				<td>$name$</td>
-				<td>$computer.name$</td>
-				<td>$computer.stock_num$</td>
-				<td>$computer.price$</td>
-				<td>$computer.channel$</td>
-				<td>$computer.detail.name$</td>
-				<td>$computer.detail.address$</td>
+				<td>$site.dec$</td>
+				<td>$site.time$</td>
+				<td><a href="$site.urladdress$" target="view_window">$site.urladdress$</a></td>
 			</tr>
 </script>
 
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="urldata.js"></script>
+<script type="text/javascript" src="demo.js"></script>
 </body>
 </html>
