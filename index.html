@@ -7,7 +7,8 @@ css: ["index.css"]
   <div class="col s12">
     <div class="card hoverable">
       <div class="card-content">
-        <span id="post-title" class="card-title">{{post.title}}</span>
+        <a href="{{post.url | prepend: site.baseurl}}">
+         <span id="post-title" class="card-title">{{post.title}}</span> </a>
         <p id="post-date">
           <i class="material-icons">date_range</i>
           {{post.date | date: "%d/%m/%Y %H:%M"}}
@@ -16,9 +17,9 @@ css: ["index.css"]
         <!--<p id="post-content">{{post.excerpt | strip_html}}</p>-->
       </div>
       <div class="card-action">
-        <a href="{{post.url | prepend: site.baseurl}}">
+         <!--<a href="{{post.url | prepend: site.baseurl}}">
           点击阅读 >>>
-        </a>
+        </a>-->
       </div>
     </div>
   </div>
