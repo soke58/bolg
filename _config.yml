@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 树生
+title: 树
 description: > # this means to ignore newlines until "baseurl:"
   问世间钱为何物，直教人前仆后继
 baseurl: "/"
@@ -23,13 +23,13 @@ repository: soke58/soke58.github.io
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "http://blog.sina.com.cn/sokehome"
+github_profile: ""
 user: "努力给您一段愉快的垂阅之旅"
-user_email: "soker58@126.com"
-contact_url: "https://weibo.com/abc0123456789"
+user_email: "sok"
+contact_url: "https://weibo.com/"
 google_tracking_id: ""
 google_site_verification: ""
-disqus_shortname: "abc0123456789"
+disqus_shortname: "abc"
 excerpt_separator:  '<!-- more -->'
 # Build settings
 markdown: kramdown
